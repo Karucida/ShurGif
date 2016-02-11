@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShurGif
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Escritura rápida forocoches
 // @author       Karucida
 // @match        http://www.forocoches.com/foro/forumdisplay.php?f=2
