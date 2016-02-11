@@ -1,0 +1,11 @@
+<center>::casoaislado::
+::johncena::
+::pizzademigrante::
+::pipascarancha::
+::dontfeedtroll::
+::fcarmy::
+::yoqsetio::
+::maduras::
+::moro2::
+::noputa::
+::qetpasa::</center>
